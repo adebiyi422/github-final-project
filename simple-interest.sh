@@ -33,7 +33,7 @@
        # Do not use this in production. Sample purpose only.
        # Author: Upkar Lidder (IBM)
        # Additional Authors:
-       # <adebiyi422>
+       # adebiyi422
        # Input:
        # p, principal amount
        # t, time period in years
